@@ -1,6 +1,5 @@
-# assistant_humanized.py
+# assistant.py
 """
-A humanized, friendly voice assistant.
 Features:
  - Listens on the microphone and speaks back using pyttsx3.
  - Safely evaluates arithmetic expressions (no eval()).
